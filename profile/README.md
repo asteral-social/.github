@@ -1,10 +1,7 @@
+##⚠️ Development is being reset!
+
 # Welcome to Asteral.
-We are an up-coming social media platform, for everyone. If you are an artist, or a content creator, maybe even a streamer, we're the place for you.
-
-## LINKS
-You can join our [Discord](https://discord.gg/dcwpr4A5zU) if you wish to receive updates about our platform.
-
-
+Development of a passion project titled Asteral.
 <!--
 
 **Here are some ideas to get you started:**
