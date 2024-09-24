@@ -1,4 +1,4 @@
-##⚠️ Development is being reset!
+## ⚠️ Development is being reset! ⚠️
 
 # Welcome to Asteral.
 Development of a passion project titled Asteral.
