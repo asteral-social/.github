@@ -4,7 +4,7 @@
 # Welcome to Asteral.
 Development of the passion project Asteral.
 
-© Asteral Group 2022-2025
+<sub><sup>© Asteral Group 2022-2025
 <!--
 
 **Here are some ideas to get you started:**
