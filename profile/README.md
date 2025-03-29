@@ -1,7 +1,8 @@
-## ⚠️ Development is being reset! ⚠️
+> [!IMPORTANT]
+> Asteral is currently not available to the public, and is very, very unfinished.
 
 # Welcome to Asteral.
-Development of a passion project titled Asteral.
+Development of the passion project Asteral.
 
 © Asteral Group 2022-2025
 <!--
